@@ -1,11 +1,11 @@
 # DS594_ConnectED
-DS594_ConnectED Final Project : Data to promote student belonging
+**DS594_ConnectED Final Project : ** Data to promote student belonging
 
 ConnectED promotes student’s mental health through coaching, training, program development, and evaluation. 
 
 By using evidence-based solutions, ConnectEd fosters collaboration and resilience in communities using insights from neuroscience and psychology.
 
-Project goal: use network data to foster student belonging and mental health
+**Project goal:** use network data to foster student belonging and mental health
 
 **Dataset Background** **:** 
 Directed weighted social network graph data with over 2k nodes and 5k edges. 
