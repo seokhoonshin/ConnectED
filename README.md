@@ -17,5 +17,5 @@ Includes metrics on student mental health and community involvement.
 Data Preprocessing, Cleaning, Network Metrics : Chatgpt, Python, Network X
 Data Visualization : Tableau, Matplotlib
 
-User story : Belonging and Demographics: As a data analyst, I want to analyze how factors like age, grade, activity involvement, race, and gender correlate with students' sense of belonging, so that I can understand the demographic and activity-based influences on belonging. 
+**User story :** Belonging and Demographics: As a data analyst, I want to analyze how factors like age, grade, activity involvement, race, and gender correlate with students' sense of belonging, so that I can understand the demographic and activity-based influences on belonging. 
 
