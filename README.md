@@ -1,5 +1,5 @@
 # DS594_ConnectED
-**DS594_ConnectED Final Project : ** Data to promote student belonging
+DS594_ConnectED Final Project : Data to promote student belonging
 
 ConnectED promotes student’s mental health through coaching, training, program development, and evaluation. 
 
